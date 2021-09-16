@@ -1,0 +1,4 @@
+total 16
+-rw-r--r--  1 solzhang  staff   34  9 16 18:17 README.md
+-rw-r--r--  1 solzhang  staff  249  9 16 18:17 t_user.txt
+-rw-r--r--  1 solzhang  staff    0  9 16 18:17 helloworld.txt
